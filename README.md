@@ -1,8 +1,8 @@
 # Heart-disease-detection-project
 
-***** Project stepwise *****
+# ***** Project stepwise *****
 
-# The questions in Questions.docx file are answered with data cleaning and EDA part of Heart Disease 2020 Project.ipymb file.
+The questions in Questions.docx file are answered with data cleaning and EDA part of Heart Disease 2020 Project.ipymb file
 
 -- # Please refer to Heart Disease 2020 Project.ipymb file for the program code of following steps.
 
