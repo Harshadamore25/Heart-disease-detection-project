@@ -1,5 +1,7 @@
 # Heart-disease-detection-project
 
+** For detailed explanation of overview of this project, please refer to Project_overview.ppt **
+
  ***** Project overview stepwise *****
 
 The questions in Questions.docx file are answered with data cleaning and EDA part of Heart Disease 2020 Project.ipymb file
