@@ -1,4 +1,3 @@
-![Output_image](https://user-images.githubusercontent.com/95171073/173293943-bc822bd3-8b0d-40fc-a240-45910af84689.png)
 # Heart-disease-detection-project
 
 ** For detailed explanation of overview of this project, please refer to heart_project_overview.pdf **
@@ -20,3 +19,4 @@ Finalized model with the highest accuracy - Random forest
 Deployment with streamlit code using Pickle -- # Please refer to project.py file for the code.
 
 Output of the project -
+![Output_image](https://user-images.githubusercontent.com/95171073/173293943-bc822bd3-8b0d-40fc-a240-45910af84689.png)
